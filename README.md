@@ -27,6 +27,6 @@ To get started with MedScan, follow these steps:
 
 ## Demo Video
 
-Check out our demo video to see MedScan in action: [Demo Video]([link_to_demo_video](https://youtu.be/Mg66Uh-qmLg))
+Check out our demo video to see MedScan in action: https://youtu.be/Mg66Uh-qmLg
 
 
