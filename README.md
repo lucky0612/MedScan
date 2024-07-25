@@ -14,16 +14,22 @@ MedScan is a healthcare project aimed at expediting and enhancing the diagnostic
 
 To get started with MedScan, follow these steps:
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/medscan.git`
-2. **Install Dependencies**: Navigate to the project directory and install dependencies using `pip install -r requirements.txt`.
-3. **Download Datasets**: Obtain datasets for training and testing the model. Links to datasets can be found at -
-4. cc_model- https://drive.google.com/file/d/1xvttnP2khgOlPqc60uHbugl1gLnHPOiL/view?usp=sharing
-5. bt_model- https://drive.google.com/file/d/1Jek98plS1lpkQMNXN-nsup48MeQlO4mB/view?usp=sharing
-6. covid_model- https://drive.google.com/file/d/1SSsaLnpi4h3Utc1CP16UGSDugYouxjjH/view?usp=sharing
-7. viral_peunomia- https://drive.google.com/file/d/1so8IlfuwQ1NbzIy30VY2l_NVvP6iMf8W/view?usp=sharing
-8. liver_model- https://drive.google.com/file/d/1V9EUjh50Yv6ue6Z2lsB2X-8ZhHpE52KV/view?usp=sharing
-9. **Training the Model**: Train the UNet model using the provided preprocessing and training pipeline.
-10. **Integration**: Integrate the trained model into your preferred web or mobile application for diagnostic support.
+1. **Clone the Repository**:
+```bash
+git clone https://github.com/yourusername/medscan.git
+```
+4. **Install Dependencies**: Navigate to the project directory and install dependencies using
+ ```bash
+ pip install -r requirements.txt`.
+```
+7. **Download Datasets**: Obtain datasets for training and testing the model. Links to datasets can be found at -
+8. cc_model- https://drive.google.com/file/d/1xvttnP2khgOlPqc60uHbugl1gLnHPOiL/view?usp=sharing
+9. bt_model- https://drive.google.com/file/d/1Jek98plS1lpkQMNXN-nsup48MeQlO4mB/view?usp=sharing
+10. covid_model- https://drive.google.com/file/d/1SSsaLnpi4h3Utc1CP16UGSDugYouxjjH/view?usp=sharing
+11. viral_peunomia- https://drive.google.com/file/d/1so8IlfuwQ1NbzIy30VY2l_NVvP6iMf8W/view?usp=sharing
+12. liver_model- https://drive.google.com/file/d/1V9EUjh50Yv6ue6Z2lsB2X-8ZhHpE52KV/view?usp=sharing
+13. **Training the Model**: Train the UNet model using the provided preprocessing and training pipeline.
+14. **Integration**: Integrate the trained model into your preferred web or mobile application for diagnostic support.
 
 ## Demo Video
 
